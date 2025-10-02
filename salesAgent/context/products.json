@@ -1,0 +1,34 @@
+[
+  {
+    "name": "NeoHire",
+    "description": "An AI-powered recruitment tool handling 500+ API requests daily."
+  },
+  {
+    "name": "WeatherWise",
+    "description": "Real-time weather insights with predictive analytics."
+  },
+  {
+    "name": "FinTrack",
+    "description": "A smart financial dashboard that automates expense tracking and budget forecasting."
+  },
+  {
+    "name": "MediLink",
+    "description": "A healthcare platform enabling secure patient-doctor consultations and record management."
+  },
+  {
+    "name": "ShopStop",
+    "description": "An e-commerce engine designed for seamless shopping experiences and personalized recommendations."
+  },
+  {
+    "name": "LearnMate",
+    "description": "An AI-driven learning assistant offering interactive lessons and progress tracking."
+  },
+  {
+    "name": "SafeGuard",
+    "description": "A cybersecurity solution providing real-time threat detection and automated protection."
+  },
+  {
+    "name": "SupplySync",
+    "description": "A supply chain management tool enabling real-time tracking, transparency, and cost optimization."
+  }
+]
